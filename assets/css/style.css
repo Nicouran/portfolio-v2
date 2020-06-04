@@ -14,11 +14,11 @@ body {
 }
 
 a {
-  color: #149ddd;
+  color: #c20505;
 }
 
 a:hover {
-  color: #37b3ed;
+  color:  #db5b5b;
   text-decoration: none;
 }
 
@@ -170,7 +170,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover i, .nav-menu .active > a i, .nav-menu li:hover > a i {
-  color: #149ddd;
+  color: #c20505;
 }
 
 /* Mobile Navigation */
@@ -211,7 +211,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/bg-a1.jpg") top center;
   background-size: cover;
 }
 
@@ -800,12 +800,12 @@ section {
 }
 
 .contact .info .social-links a:hover {
-  background: #149ddd;
+  background: #a54a4a;
   color: #fff;
 }
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
-  background: #149ddd;
+  background: #a54a4a;
   color: #fff;
 }
 
@@ -946,6 +946,7 @@ section {
 @media (max-width: 768px) {
   .breadcrumbs .d-flex {
     display: block !important;
+    background-color: #040b14;
   }
   .breadcrumbs ol {
     display: block;
