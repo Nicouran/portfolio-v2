@@ -166,7 +166,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
   text-decoration: none;
-  color: #fff;
+  color: #eb8787;
 }
 
 .nav-menu a:hover i, .nav-menu .active > a i, .nav-menu li:hover > a i {
@@ -302,10 +302,10 @@ section {
   content: '';
   position: relative;
   display: block;
-  margin: auto;
-  width: 70px;
+  margin: 15px auto;
+  width: 90px;
   height: 3px;
-  background: #eb8787;
+  background: #4b4b4b;
   bottom: 0;
   left: 0;
 }
@@ -394,7 +394,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 50px;
@@ -419,7 +419,7 @@ section {
 }
 
 .skills .progress-bar-wrap {
-  background: #f3b4b4;
+  background: #c8c8c8;
 }
 
 .skills .progress-bar {
