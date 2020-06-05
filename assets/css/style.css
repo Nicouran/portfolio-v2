@@ -566,11 +566,12 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background: #dff3fc;
+  background: #ffffff;
   display: flex;
   justify-content: center;
   align-items: center;
   border-radius: 50px;
+  border-color:#f73e3e ;
   transition: all 0.3s ease-in-out;
 }
 
